@@ -170,11 +170,9 @@
 - Attended to household cleaning and ritual-related responsibilities for Tauji's **Dasgaan (दसगात्र)** ceremony.
 - Completed the **second draft of the Seva First Innovation Challenge PPT**, making further progress on the presentation.
 - Watched approximately **half of Lecture 5 of the Theory of Computation (TOC)**, continuing the academic backlog.
-
-### 🎯 Daily Progress
 Balanced exam preparation, college studies, innovation work, and family responsibilities throughout the day. 🙏
 
-# 📅 October 18, 2026 — AyuMarg, Client Work & GATE Preparation
+## 📅 October 18, 2026 — AyuMarg, Client Work & GATE Preparation
 
 - 🏥 **AyuMarg Project:** Modified the project according to the client's requirements and discussed the requested changes directly with the client.
 - 🛵 **Part-Time Earning:** Applied for **Rapido Captain** to explore earning some extra pocket money and help cover fuel expenses.
