@@ -256,3 +256,19 @@ TOC is nearing completion, but several subjects and revision tasks still need at
 - 🚆 **Travel:** Packed and travelled to Raipur via Intercity Express at 3 PM; Mansoon picked me up from Zora Bus Stand.
 - 👨‍💻 **Project Setup:** Cloned the Git repository and successfully ran the complete project locally at Mansoon’s place.
 - 🌙 **Day End:** Had dinner, finished pending work, scrolled through reels, and slept around 2:15 AM.
+
+## 📅 23rd October 2026
+
+- 🏆 **Hackathon at GEC Raipur:** Woke up, got ready by 7:30 AM, and had breakfast with Mansoon at his home before leaving for GEC Raipur. Reached the venue in around 30 minutes, completed registration, collected our kits, and settled at our assigned spot.
+- 💡 **Evaluation Round:** Participated in the evaluation round from 10 AM to 1 PM, followed by lunch. Afterward, the Top 10 teams were announced, but unfortunately, our team wasn't selected. The shortlisted teams pitched their ideas in the auditorium, while we collected our certificates and left the venue.
+- 🚆 **Return Journey:** Mansoon dropped me at the railway station. I boarded the Shatabdi Express to Bilaspur and took a Rapido home.
+- 💻 **My Bharat Hackathon Preparation:** Started working on the PPT for the upcoming My Bharat hackathon submissions after reaching home.
+- 😴 **End of the Day:** After a long and exhausting day, had dinner and went to sleep.
+
+## 📅 24th October 2026 — Daily Progress Update
+
+- 📚 **GATE CS — Analytical Aptitude:** Completed Lectures 2, 3, 4, and 5. Only Lecture 6 remains, along with Spatial Aptitude Lectures 1 and 2, planned for 25th October.
+- 💻 **AyuMarg Project:** Added a phone number to the Contact Us section in the footer as requested by the client. Researched additional improvements, including Firebase-based patient message notifications.
+- 🚀 **MyBharat — Hack for Social Cause:** Worked on the hackathon presentation and will continue working on it to complete the PPT.
+- ♟️ **Chess.com:** My account was closed unexpectedly, and I'm still unsure why.
+- 🌙 **Daily Wrap-up:** Had dinner and went to sleep after completing the day's tasks.
