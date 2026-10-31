@@ -360,7 +360,7 @@ Complete TOC, continue Turing Machine preparation, and move forward with the rem
 - Clear pending lecture backlogs.
 - Continue consistent preparation.
 
-### 31 October 2026
+## 📅 31 October 2026
 
 - Completed CN Miscellaneous Chapter – Lecture 1.
 - Completed DSA Array Chapter (3 lectures).
