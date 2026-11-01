@@ -382,7 +382,7 @@ Complete TOC, continue Turing Machine preparation, and move forward with the rem
 - Test AyuMarg payment gateway and security integrations.
 - Add additional security features if required.
 
-# 📅 Daily Progress Report | 1st November 2026
+## 📅 Daily Progress Report | 1st November 2026
 
 - ☀️ Woke up, had chai and started working on the AyuMarg project.
 - 💳 Received Razorpay API keys from the client and completed the payment gateway integration by 1 PM.
