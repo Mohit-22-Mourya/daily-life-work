@@ -461,7 +461,7 @@ Complete TOC, continue Turing Machine preparation, and move forward with the rem
 
 **Upcoming Goal:** Blitz 1050 by 7th November! 🚀
 
-## 📅 6th November 2026 | Daily Progress Report
+## 📅 6th November 2026
 
 🔥 A productive day with a 1300+ milestone!
 
@@ -473,3 +473,18 @@ Complete TOC, continue Turing Machine preparation, and move forward with the rem
 Today's highlight: Trees completed, OS revision progressed, and the 1300 chess milestone achieved! 🚀
 
 Next target: 1350 Rapid ♟️
+
+## 📅 7 November 2026 
+
+📚 Study Progress
+
+- ✅ OS: Process Synchronization chapter completed.
+- 🔥 DSA: Started Linked List, completed L1.
+- 💪 Process Synchronization L5 & L6 were particularly challenging, but pushed through!
+
+🎯 Tomorrow's Targets (8 Nov)
+
+- Start OS Deadlocks.
+- Complete DSA Linked List.
+
+📝 Today's Note: Studied a little less today because OS L5 & L6 and Linked List L1 were quite challenging. Still, Process Synchronization is DONE! One chapter at a time. 🚀
