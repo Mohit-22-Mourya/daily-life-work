@@ -659,4 +659,4 @@ A productive day balancing project improvements, core CS concepts, and aptitude 
 - 🚀 PYQ Practice Websites: Used AI to extract questions from PDFs and generate dedicated practice websites for DELD, C Programming, and DSA.
 - 🔧 Currently working on OS and COA PYQ websites and continuing question practice across subjects.
 
-Celebrations, OS progress, and AI-powered PYQ practice. Building tools, solving questions, and moving closer to GATE 2027! 💪🚀
+> **Celebrations, OS progress, and AI-powered PYQ practice. Building tools, solving questions, and moving closer to GATE 2027! 💪🚀**
