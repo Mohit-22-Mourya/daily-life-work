@@ -675,3 +675,12 @@ A productive day balancing project improvements, core CS concepts, and aptitude 
 - Went out to get wheat flour milled, followed by a bath and some routine activities.
 
 > **OS syllabus completed, PYQ practice continued, and C Programming revision underway. Another milestone towards GATE 2027! 💪🔥**
+
+## 📅 20 November 2026 — Daily Progress
+
+- ⚡ Power Cut: Electricity went out, and power returned around 2:20 PM, affecting the day's study schedule.
+- 💻 DBMS: Solved some SQL PYQs.
+- 📚 C Programming: Completed PYQs on Functions and Storage Classes.
+- 🔧 C Programming: Started PYQ practice on Pointers and Arrays.
+
+> **A disrupted day, but still made progress. Solving PYQs one step at a time and staying in the fight for GATE 2027! 💪🚀**
