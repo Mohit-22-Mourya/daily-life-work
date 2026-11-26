@@ -723,12 +723,12 @@ A productive day balancing project improvements, core CS concepts, and aptitude 
 
 > **Guru Nanak Jayanti observed, OS PYQs completed, and VBYLD 2027 deck rehearsed. Ready for Bhatrai Indoor Stadium tomorrow! 💪🎯🚀**
 
-## 📅 November 26, 2026
+## 📅 25 November 2026 — Daily Progress
 
 * Visited **Bahatarai Stadium** to deliver a presentation for **VBYLD 2027**, where lunch packets were distributed post-session. 🎤
 * Returned home to recuperate, waking up at **19:30**, followed by a brief break browsing reels. 🛌
 * Revised **C Programming PYQs** and played a few rounds of **chess** before having dinner and turning in for the night. 💻♟️
 
-### 🎯 Agenda for November 27, 2026
+### 🎯 Agenda for November 26, 2026
 * Complete **Computer Networks (CN) PYQs**.
 * Wrap up the remaining **Operating Systems (OS) DPPs**.
