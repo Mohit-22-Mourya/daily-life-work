@@ -733,7 +733,7 @@ A productive day balancing project improvements, core CS concepts, and aptitude 
 * Complete **Computer Networks (CN) PYQs**.
 * Wrap up the remaining **Operating Systems (OS) DPPs**.
 
-## 📅 27 November 2026 — Daily Progress
+## 📅 26 November 2026 — Daily Progress
 
 - 💻 **Computer Networks (CN) PYQs:** Solved and analyzed previous year questions covering *Flow Control* and *Error Control* protocols.
 - 📚 **Operating Systems (OS) DPPs:** Completed Daily Practice Problems focused on *Memory Management* and *File Systems*.
