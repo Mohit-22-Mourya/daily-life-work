@@ -739,3 +739,13 @@ A productive day balancing project improvements, core CS concepts, and aptitude 
 - 📚 **Operating Systems (OS) DPPs:** Completed Daily Practice Problems focused on *Memory Management* and *File Systems*.
 
 > **Steady progress through core GATE CSE concepts—Flow & Error Control PYQs and OS DPPs consolidated. Staying consistent! 💪🚀**
+
+## 📅 27 November 2026 — Daily Progress
+
+- 💻 **Computer Networks (CN) PYQs:** Completed comprehensive PYQ practice covering the *Network Layer*, *Transport Layer*, and *Application Layer*.
+
+### 🎯 Tomorrow's Targets (28 Nov)
+
+- 📚 **Computer Organization & Architecture (COA):** Commence and consolidate PYQ practice across core modules.
+
+> **Computer Networks PYQs mastered across the upper protocol stack. Pivoting to COA tomorrow with sustained momentum! 💪🚀*
