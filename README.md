@@ -748,4 +748,4 @@ A productive day balancing project improvements, core CS concepts, and aptitude 
 
 - 📚 **Computer Organization & Architecture (COA):** Commence and consolidate PYQ practice across core modules.
 
-> **Computer Networks PYQs mastered across the upper protocol stack. Pivoting to COA tomorrow with sustained momentum! 💪🚀*
+> **Computer Networks PYQs mastered across the upper protocol stack. Pivoting to COA tomorrow with sustained momentum! 💪🚀**
